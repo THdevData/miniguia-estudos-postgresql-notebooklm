@@ -2,9 +2,9 @@
 
 ## 📌 Contexto e Objetivos
 
-Este repositório apresenta um **miniguia de estudos sobre PostgreSQL**, desenvolvido com o apoio do **NotebookLM**, a partir de fontes confiáveis e amplamente utilizadas no mercado.
+Este repositório apresenta um **miniguia de estudos básico sobre PostgreSQL**
 
-O objetivo principal é consolidar os **fundamentos do PostgreSQL**, compreender seus principais conceitos e comandos SQL, além de praticar **engenharia de prompts** aplicada ao aprendizado técnico com IA.
+O objetivo principal é apresentar os **fundamentos do PostgreSQL**, compreender seus principais conceitos e comandos SQL, além de praticar **engenharia de prompts** aplicada ao aprendizado técnico com IA.
 
 ---
 
