@@ -57,3 +57,7 @@ Este projeto reúne estudo técnico, curadoria de fontes e uso consciente de IA 
 ## Obs
 
 Novas fontes serão adicionadas conforme meus avanços em novos conteúdos.
+
+### Link:
+
+https://notebooklm.google.com/notebook/b8688e57-56da-4dae-9594-4ab5c59bf138
